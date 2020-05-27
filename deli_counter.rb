@@ -2,5 +2,6 @@
 def line(line) 
   if line.length>=1
     line.length
-  else 
+  else "The line is currently empty."
+end
 end
